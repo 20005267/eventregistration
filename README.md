@@ -3,7 +3,7 @@
 ## AIM:
 To create a UX design and develop a web application for event registration.
 ## DESIGN STEPS:
-```
+
 ### Step 1: 
 Requirement collection.
 ### Step 2:
@@ -16,13 +16,17 @@ Designing layout for individual pages
 Creating links and linking it with artboards
 ### Step 6:
 Preview the prototype.
-```
+
 ## DESIGN SCREENS:
 
 ![output](./static/img/output1.jpg)
+
 ![output](./static/img/output2.jpg)
+
 ![output](./static/img/output3.jpg)
+
 ![output](./static/img/output4.jpg)
+
 ![output](./static/img/output5.jpg)
 
 
@@ -201,6 +205,47 @@ Preview the prototype.
 </html>
 ```
 
+## FAILED.HTML:
+```
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>Registration Failed!</title>
+  </head>
+  <body>
+      <div class="jumbotron">
+        <div class="container text-center">
+            <h1 class="display-4">INTERNATIONAL ART CONTEST</h1>
+            <hr class="my-4">
+            <p class="lead">You are the artist</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 text-center text-success py-10">
+            Your Registration has been Failed !
+        </div>
+    </div>
+    <div class="row py-5">
+            <div class="col-12 text-center">
+                <a href="/home/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Home</a>
+            </div>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
+```
 ## PARTICIPANTS.HTML:
 ```
 
@@ -372,14 +417,17 @@ Preview the prototype.
 </html>
 ```
 
-
 ## OUTPUT:
 ![output](./static/img/output8.jpg)
+
 ![output](./static/img/output9.jpg)
+
 ![output](./static/img/output10.jpg)
+)
 ![output](./static/img/output11.jpg)
 
 
 ## RESULT:
 ```
-Thus a UX design is created and web application is developed for event registration and is hosted in the URL http://kayalvizhi.student.saveetha.in:8000/home.
+Thus a UX design is created and web application is developed for event registration and is hosted in the
+ URL http://kayalvizhi.student.saveetha.in:8000/home.
